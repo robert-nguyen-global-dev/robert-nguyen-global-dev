@@ -12,4 +12,6 @@
 
 🎯 Interested in **AI, automation, scalable backend systems**.
 
-📫 Reach me: **robert.nguyen.global.dev@gmail.com**
+📫 Reach me:  
+• 📧 Email: [robert.nguyen.global.dev@gmail.com](mailto:robert.nguyen.global.dev@gmail.com)  
+• 💼 LinkedIn: [linkedin.com/in/robert-nguyen-global-dev](https://www.linkedin.com/in/robert-nguyen-global-dev/)
